@@ -17,11 +17,17 @@ body{
     width: 100%;
     overflow: hidden;
     top: 0;
+    box-shadow: 1px 1px 25px  rgb(2, 2, 2);
 }
+
+
 .bav1{ 
     display: flex;
       
 }
 .main-bav , a{
     text-align: center;
+}
+p{
+    background-color: blue;
 }
