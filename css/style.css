@@ -17,14 +17,14 @@ body{
     position: static;
 }
 .main-bav{
-    border: 1px solid rgb(3, 248, 228);
-    background: transparent;
+    border: 1px solid rgb(86, 255, 241);
+    background: rgb(31, 210, 255);
     position: fixed;
     width: 100%;
     overflow: hidden;
     top: 0;
     box-shadow: 1px 1px 40px  rgb(72, 75, 72);
-    border: 4px inset green ;
+    border: 4px inset rgb(209, 238, 209) ;
 
 }
 
@@ -34,7 +34,6 @@ body{
     border: dashed rgb(36, 37, 36);
     border-radius:  3px;
     background: white;
-   
 }
 
 .bav1{ 
@@ -46,7 +45,7 @@ body{
    
 }
 p{
-    background-color: rgb(6, 148, 184);
+    background-color: rgb(187, 225, 235);
     box-shadow: 1px 1px 25px  rgb(38, 39, 38);
 }
 .toc {
@@ -61,4 +60,7 @@ p{
     border-radius:  3px;
     background-color: rgb(255, 254, 254);
 }
-
+.clod p img{
+    width: 100%;
+    height: 100vh;
+}
