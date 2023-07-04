@@ -3,7 +3,7 @@
     padding: 0%;
 }
 body{
-   background-color: rgb(35, 241, 241);
+   background-image: url(/pic/clouds_sky_porous_133455_2560x1600.jpg);
 }
 
 .bav h1{
@@ -24,16 +24,17 @@ body{
     width: 100%;
     overflow: hidden;
     top: 0;
-    box-shadow: 1px 1px 40px  rgb(3, 224, 22);
+    box-shadow: 1px 1px 40px  rgb(72, 75, 72);
     border: 4px inset green ;
 }
 
 .boes{
     padding: 20px;
     margin: 29px;
-    border: dashed green;
+    border: dashed rgb(36, 37, 36);
     border-radius:  3px;
-    background-color: rgb(255, 254, 254);
+    background: white;
+   
 }
 
 .bav1{ 
@@ -46,7 +47,7 @@ body{
 }
 p{
     background-color: rgb(6, 148, 184);
-    box-shadow: 1px 1px 25px  rgb(3, 224, 22);
+    box-shadow: 1px 1px 25px  rgb(38, 39, 38);
 }
 .toc {
     display: flex;
@@ -56,7 +57,7 @@ p{
 .boess{
     padding: 20px;
     margin: 29px;
-    border: dashed green;
+    border: dashed rgb(37, 39, 37);
     border-radius:  3px;
     background-color: rgb(255, 254, 254);
 }
