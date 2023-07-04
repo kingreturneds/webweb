@@ -7,9 +7,15 @@ body{
 }
 
 .bav h1{
-   display: grid;
-   place-items: center;
-   color: aqua;
+   display: flex;
+
+   color: rgb(2, 117, 117);
+   size: 10px;
+  
+}
+.main-bav a{
+    text-decoration: none;
+    position: relative;
 }
 .main-bav{
     border: 1px solid rgb(3, 248, 228);
@@ -36,8 +42,14 @@ body{
 }
 .main-bav , a{
     text-align: center;
+   
 }
 p{
     background-color: rgb(6, 148, 184);
     box-shadow: 1px 1px 25px  rgb(3, 224, 22);
+}
+.toc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
