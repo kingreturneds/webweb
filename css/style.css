@@ -53,3 +53,11 @@ p{
     justify-content: center;
     align-items: center;
 }
+.boess{
+    padding: 20px;
+    margin: 29px;
+    border: dashed green;
+    border-radius:  3px;
+    background-color: rgb(255, 254, 254);
+}
+
