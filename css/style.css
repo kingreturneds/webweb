@@ -3,21 +3,25 @@
     padding: 0%;
 }
 body{
-   background-color: aqua;
+   background-color: rgb(35, 241, 241);
 }
 
 .bav h1{
    display: grid;
    place-items: center;
+   color: aqua;
 }
 .main-bav{
-    border: 1px solid black;
+    border: 1px solid rgb(3, 248, 228);
     background-color: rgb(244, 245, 245);
     position: fixed;
     width: 100%;
     overflow: hidden;
     top: 0;
-    box-shadow: 1px 1px 25px  rgb(2, 2, 2);
+    box-shadow: 1px 1px 40px  rgb(3, 224, 22);
+}
+.main-bav ::before{
+    
 }
 
 
@@ -29,5 +33,6 @@ body{
     text-align: center;
 }
 p{
-    background-color: blue;
+    background-color: rgb(6, 148, 184);
+    box-shadow: 1px 1px 25px  rgb(3, 224, 22);
 }
