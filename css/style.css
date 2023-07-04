@@ -24,7 +24,8 @@ body{
 .boes{
     padding: 24px;
     margin: 24px;
-    border: 1px solid black;
+    border-radius:  32px 64px;
+    background-color: rgb(3, 3, 3);
 }
 
 .bav1{ 
