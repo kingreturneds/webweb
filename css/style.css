@@ -19,13 +19,15 @@ body{
     overflow: hidden;
     top: 0;
     box-shadow: 1px 1px 40px  rgb(3, 224, 22);
+    border: 4px inset green ;
 }
 
 .boes{
     padding: 24px;
     margin: 24px;
-    border-radius:  32px 64px;
-    background-color: rgb(3, 3, 3);
+    border: dashed green;
+    border-radius:  3px;
+    background-color: rgb(255, 254, 254);
 }
 
 .bav1{ 
