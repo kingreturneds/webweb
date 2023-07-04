@@ -8,24 +8,24 @@ body{
 
 .bav h1{
    display: flex;
-
    color: rgb(2, 117, 117);
    size: 10px;
   
 }
 .main-bav a{
     text-decoration: none;
-    position: relative;
+    position: static;
 }
 .main-bav{
     border: 1px solid rgb(3, 248, 228);
-    background-color: rgb(244, 245, 245);
+    background: transparent;
     position: fixed;
     width: 100%;
     overflow: hidden;
     top: 0;
     box-shadow: 1px 1px 40px  rgb(72, 75, 72);
     border: 4px inset green ;
+
 }
 
 .boes{
