@@ -21,7 +21,7 @@ body{
     background: rgb(31, 210, 255);
     position: fixed;
     width: 100%;
-    overflow: hidden;
+   
     top: 0;
     box-shadow: 1px 1px 40px  rgb(72, 75, 72);
     border: 4px inset rgb(209, 238, 209) ;
@@ -41,7 +41,7 @@ body{
       
 }
 .main-bav , a{
-    text-align: center;
+    text-align: right;
    
 }
 p{
