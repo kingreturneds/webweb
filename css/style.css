@@ -4,8 +4,11 @@
 }
 body{
    background-image: url(/pic/clouds_sky_porous_133455_2560x1600.jpg);
+  
 }
-
+body::-webkit-scrollbar{
+    display: none;
+  }
 .bav h1{
    display: flex;
    color: rgb(2, 117, 117);
@@ -21,11 +24,10 @@ body{
     background: rgb(31, 210, 255);
     position: fixed;
     width: 100%;
-   
     top: 0;
     box-shadow: 1px 1px 40px  rgb(72, 75, 72);
     border: 4px inset rgb(209, 238, 209) ;
-
+    margin-right: 2%;
 }
 
 .boes{
@@ -34,8 +36,17 @@ body{
     border: dashed rgb(36, 37, 36);
     border-radius:  3px;
     background: white;
+    
 }
 
+.boes a{
+    padding: 20px;
+    margin: 29px;
+    border: dashed rgb(36, 37, 36);
+    border-radius:  3px;
+    background: white;
+    justify-content: space-between  ;
+}
 .bav1{ 
     display: flex;
       
