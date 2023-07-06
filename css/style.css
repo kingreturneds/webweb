@@ -13,7 +13,7 @@ body::-webkit-scrollbar{
    display: flex;
    color: rgb(2, 117, 117);
    size: 10px;
-  
+                
 }
 .main-bav a{
     text-decoration: none;
@@ -34,7 +34,7 @@ body::-webkit-scrollbar{
     padding: 20px;
     margin: 29px;
     border: dashed rgb(36, 37, 36);
-    border-radius:  3px;
+    border-radius: 66px;
     background: white;
     
 }
@@ -46,6 +46,13 @@ body::-webkit-scrollbar{
     border-radius:  3px;
     background: white;
     justify-content: space-between  ;
+}
+.boes img {
+    padding: 2%;
+    border-radius: 50%;
+    border:5px double black;
+    margin: 60px;
+    
 }
 .bav1{ 
     display: flex;
