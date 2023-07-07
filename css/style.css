@@ -20,14 +20,15 @@ body::-webkit-scrollbar{
     position: static;
 }
 .main-bav{
-    border: 1px solid rgb(86, 255, 241);
+
     background: rgb(31, 210, 255);
     position: fixed;
     width: 100%;
     top: 0;
     box-shadow: 1px 1px 40px  rgb(72, 75, 72);
-    border: 4px inset rgb(209, 238, 209) ;
-    margin-right: 2%;
+    border: 1px solid rgb(209, 238, 209) ;
+   
+    
 }
 
 .boes{
