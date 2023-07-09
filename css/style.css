@@ -11,6 +11,7 @@ body::-webkit-scrollbar{
   }
 .bav h1{
     position: absolute;
+    font-family: sans-serif;
     
    color: rgb(2, 117, 117);
    size: 10px;
