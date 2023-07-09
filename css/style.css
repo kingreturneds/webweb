@@ -69,6 +69,12 @@ body::-webkit-scrollbar{
    
 }
 
+.alink a{
+    font-size: 20px;
+    color: rgb(7, 7, 7);
+    
+}
+
 .paragraph  {
     background-color: rgb(187, 225, 235);
     box-shadow: 1px 1px 25px  rgb(255, 255, 255)inset;
