@@ -104,6 +104,7 @@ body::-webkit-scrollbar{
 }
 .boes1 {
     position: relative;
+ 
 }
 .overlay{
     position: absolute;
@@ -114,10 +115,15 @@ body::-webkit-scrollbar{
     width: 103%;
     height: 90%;
     border-radius: 50%;
-    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:  0.50s;
 }
-.boes p{
-   
-    
+.overlay:hover{
   
- }
+    opacity: 1;
+}
+
