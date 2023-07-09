@@ -123,7 +123,8 @@ body::-webkit-scrollbar{
     transition:  0.50s;
 }
 .overlay:hover{
-  
     opacity: 1;
+    
 }
+
 
