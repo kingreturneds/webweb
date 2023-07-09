@@ -66,13 +66,13 @@ body::-webkit-scrollbar{
 }
 .main-bav , a{
     text-align: right;
-   
+    font-family: sans-serif;
 }
 
 .alink a{
     font-size: 20px;
     color: rgb(7, 7, 7);
-    
+    font-family: sans-serif;
 }
 
 .paragraph  {
@@ -80,12 +80,14 @@ body::-webkit-scrollbar{
     box-shadow: 1px 1px 25px  rgb(255, 255, 255)inset;
     padding: 10px;
     margin-bottom: none;
+    font-family: sans-serif;
 }
 .clod p {
     background-color: rgb(187, 225, 235);
     box-shadow: 1px 1px 25px  rgb(255, 255, 255)inset;
     padding: 10px;
     margin-bottom: none;
+    font-family: sans-serif;
 }
 .toc {
     display: flex;
